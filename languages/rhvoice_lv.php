@@ -6,7 +6,7 @@
  */
 $dictionary = array(
     'ABOUT' => 'Par',
-    'SETTINGS' => 'Settings',
+    'SETTINGS' => 'Uzstādījumi',
     'HELP' => 'Palīdzība',
     'VOICE' => 'Balss:',
     'USE_SPD' => 'Izmantot Speech Dispatcher',
